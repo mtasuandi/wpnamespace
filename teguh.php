@@ -1,14 +1,3 @@
-# wpnamespace
-
-WordPress Plugin Template using namespace based and autoloader.
-
-If you are looking for new coding style in WordPress Plugin Development that uses namespace and autoloader, please grab this repo.
-
-The repository provide simple coding style using PHP Namespace and spl_autoload_register.
-
-Take a look quick sample here:
-
-```
 <?php
 /*
 Plugin Name: Teguh
@@ -103,4 +92,3 @@ function teguh_init() {
 	 */
 	$base->run();
 }
-```
