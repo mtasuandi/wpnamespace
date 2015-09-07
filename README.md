@@ -8,7 +8,7 @@ The repository provide simple coding style using PHP Namespace and spl_autoload_
 
 Take a look quick sample here:
 
-```
+```php
 <?php
 /*
 Plugin Name: Teguh
